@@ -1,5 +1,5 @@
-#Research Track 1 - Second Assignment
-#Nima Abaeian S5967579
+#  Research Track 1 - Second Assignment
+# Nima Abaeian S5967579
 
 The second assignment for the Research Track involves developing a package that interacts with a simulated robot in Gazebo. This package serves as a ROS (Robot Operating System) node to control the robot's navigation system. The package consists of three nodes:
 
